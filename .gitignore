@@ -1,3 +1,7 @@
+#Custom
+hidden/
+*.hidden
+Todo/
 # History files
 .Rhistory
 .Rapp.history
